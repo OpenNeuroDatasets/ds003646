@@ -1,0 +1,19 @@
+{
+    "Name": "UNC-CH 3D isotropic EPI protocol",
+    "BIDSVersion": "1.2.2",
+    "License": "??",
+    "Authors": [
+        "Sung-Ho Lee",
+        "Maggie",
+        "Yen-Yu Ian Shih",
+        "ARC PIs who shered for this project"
+    ],
+    "Acknowledgements": "",
+    "HowToAsknowledge": "",
+    "Funding": [
+        "Funding sources here"
+    ],
+    "EthicApprovals": "IACUC information",
+    "ReferenceAndLinks": "paper link after publish",
+    "DatasetDOI": ""
+}
