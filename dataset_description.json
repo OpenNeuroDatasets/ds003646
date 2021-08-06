@@ -1,7 +1,7 @@
 {
-    "Name": "UNC-CH 3D isotropic EPI protocol",
+    "Name": "An isotropic EPI database for rat brain resting-state fMRI",
     "BIDSVersion": "1.2.2",
-    "License": "??",
+    "License": "CC0",
     "Authors": [
         "Sung-Ho Lee",
         "Maggie",
